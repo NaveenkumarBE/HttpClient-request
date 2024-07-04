@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9EjY36+FgRQosc7LHwHnwEDmnlXgXiz47k/F2oyCY0ypnuBnwA6ot8vNZHLCRUJUsC+ojKEW56LJbeFaux5Hg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual studio Project\\Projects\\NET 8\\HTTPClient _Request\\HTTPClient _Request\\HTTPClient _Request.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
